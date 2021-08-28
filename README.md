@@ -1,4 +1,6 @@
-# pichost
+# apichost
+
+> A picture hosting.
 
 My own pic & img hosting.
 
